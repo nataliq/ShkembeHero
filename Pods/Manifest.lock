@@ -1,0 +1,20 @@
+PODS:
+  - FlowFramework (1.1.0)
+  - PresentationFramework (1.0.0):
+    - FlowFramework (~> 1.1)
+
+DEPENDENCIES:
+  - PresentationFramework (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlowFramework
+    - PresentationFramework
+
+SPEC CHECKSUMS:
+  FlowFramework: 5770d6c6e3b91c58a6c50f367097f920c72c59d1
+  PresentationFramework: ecc68a93600f8115e1fcab1e3c3228e111ae4bee
+
+PODFILE CHECKSUM: 6b43b60c8c7ad63cad9e58cf952425916a22ab8d
+
+COCOAPODS: 1.5.2
